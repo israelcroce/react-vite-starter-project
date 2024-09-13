@@ -1,0 +1,1 @@
+{"root":["./src/app.test.tsx","./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/helloworld/helloworld.test.tsx","./src/components/helloworld/helloworld.tsx","./src/components/helloworld/index.ts","./vitest.setup.ts"],"version":"5.6.2"}
